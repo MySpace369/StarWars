@@ -1,4 +1,13 @@
 #filmlist {
     display: flex;
     flex-wrap: wrap;
+    margin: 0 0 20 0;
+}
+
+figure img {
+    
+}
+
+figcaption {
+    align-self: flex-end;
 }
